@@ -24,8 +24,6 @@ public class MyBackendSkills{
         JUNIT;
   }
 
-  boolean iWillLearnEvenMoreIfYouHireMe = true; 
-
 ```
 
 👨‍💻 Junior Developer<br>
