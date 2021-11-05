@@ -27,8 +27,6 @@ public class MyBackendSkills{
 ```
 
 🏡 Brasil<br>
-📡 Open to work <br>
-
 <!--
 **leosant/leosant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
