@@ -26,7 +26,6 @@ public class MyBackendSkills{
 
 ```
 
-👨‍💻 Junior Developer<br>
 🏡 Brasil<br>
 📡 Open to work <br>
 
