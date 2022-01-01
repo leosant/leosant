@@ -12,14 +12,16 @@
 public class MyBackendSkills{
   String language = "Java"; 
   String framework = "Spring";
-  String[] backendSkills = new String[] {"Spring Boot","Hibernate", "Maven", "Spring Security", "JavaFX"};
+  String[] backendSkills = {"Spring Boot","Hibernate", "Maven", "Spring Security", "JavaFX"};
   ArrayList<String> databases = new ArrayList<>();
     databases.add("MySQL");
+    databases.add("MongoDb");
     databases.add("PostgresSQL");
     databases.add("SQLServer");
-    System.out.println(databases);
   }
-  String deploy = "AWS"+" Heroku";
+  System.out.println(databases);
+  
+  String deploy = "Azure"+" Heroku";
   public enum Testing {
         JUNIT;
   }
