@@ -21,7 +21,7 @@ public class MyBackendSkills{
   }
   System.out.println(databases);
   
-  String deploy = "Azure"+" Heroku";
+  String deploy = "Azure"+" Heroku"+"AWS";
   public enum Testing {
         JUNIT;
   }
