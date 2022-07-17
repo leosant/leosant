@@ -13,10 +13,10 @@ public class MyBackendSkills{
   String language = "Java"; 
   String framework = "Spring";
   String[] backendSkills = {"Spring Boot","Hibernate", "Maven", "Spring Security", "JavaFX"};
-  ArrayList<String> databases = Arrays.asList(
+  List<String> databases = Arrays.asList(
     "MongoDb",
     "MySQL",
-    "OracleDB,
+    "OracleDB",
     "PostgreSQL",
     "SQLServer");
     
