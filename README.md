@@ -23,7 +23,7 @@ public class MyBackendSkills{
   
   String deploy = "Azure"+" Heroku"+"AWS";
   public enum Testing {
-        JUNIT;
+        JUNIT, TESTNG;
   }
 
 ```
